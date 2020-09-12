@@ -1,5 +1,5 @@
 {
-  "name": "game-server-v1",
+  "name": "gsv1",
   "version": "1.0.0",
   "description": "node app ",
   "main": "app.js",
